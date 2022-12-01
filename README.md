@@ -1,2 +1,1 @@
-# projeto01
- 
+Código fonte do front END do TCC Unicesumar. Aqui esta a interface gráfica da aplicação desenvolvida para a balança rodoviária. Para gerar o arquivo HTML completo, basta instalar as dependencias e  executar o comando NPM Build
